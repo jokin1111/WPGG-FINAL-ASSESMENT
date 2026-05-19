@@ -1,4 +1,4 @@
-# WPGG - Web Platform for Gaming Groups
+# WPGG - Well Played for Good Game
 
 WPGG is a web application designed to help League of Legends players find teammates, create matchmaking posts, manage their player profile, and connect with other users through a friend request system.
 
